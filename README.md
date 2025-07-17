@@ -8,8 +8,6 @@ I'm a Software Development Engineer in Test (SDET) 💻,  Lifelong Learner 🚀 
 
 ## 🤝 Connect with me:
 - [Anindita Rudra | LinkedIn](https://www.linkedin.com/in/anindita-rudra-17526995/)
-- [Anindita Rudra | Instagram](https://www.instagram.com/your-instagram) <!-- Update with your actual Instagram link -->
-- [Anindita Rudra | Whatsapp](https://wa.me/your-number) <!-- Update with your actual WhatsApp number/link -->
 
 ---
 
