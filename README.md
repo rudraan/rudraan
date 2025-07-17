@@ -17,10 +17,6 @@ I'm a Software Development Engineer in Test (SDET) 💻,  Lifelong Learner 🚀 
 
 ---
 
-## 💬 If you have any questions or feedback, please don't hesitate to reach out to me!
-
----
-
 ## 🔭 I'm currently working on
 - Testing Automation Frameworkusing Playwright Typescript
   Building a unified automation framework capable of running UI, API tests seamlessly using Selenium 4 and Java.
