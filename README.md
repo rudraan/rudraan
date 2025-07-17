@@ -40,21 +40,13 @@ I'm a Software Development Engineer in Test (SDET) 💻,  Lifelong Learner 🚀 
 
 ### Automated Regression Testing Framework (Java)
 A robust automated regression testing framework built with Selenium WebDriver and Java.
-
-### Automated Regression Testing Framework (Python)
-A comprehensive regression testing solution developed with Selenium WebDriver and Python.
+https://github.com/rudraan/Test-Automation-Framework
 
 ---
 
 ## 💼 Technical Skills
 
 Java | TypeScript | Selenium | Postman | MySQL | JMeter | Git | GitLab | Rest Assured
-
----
-
-## 📈 GitHub Stats
-
-![Anindita Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=aninditarudra&show_icons=true&theme=radical)
 
 ---
 
